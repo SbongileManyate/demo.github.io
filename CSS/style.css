@@ -1,0 +1,9 @@
+body{background-color: Purple;
+    color: white;
+  }
+
+button{
+  background-color: black;
+  color: white;
+  border-radius:15; 
+}
